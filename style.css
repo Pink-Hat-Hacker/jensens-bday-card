@@ -1,0 +1,33 @@
+.day{
+    background-color:#5bd3ff; 
+}
+.night{
+    background-color: #2c3e50;
+}
+
+#orb{
+    
+    height:660px;
+    width:500px;
+    margin:auto;
+    position: absolute;
+    top:0;
+    left: 0;
+    bottom: 0;
+    right:0;
+    padding:20px;
+}
+.sun{
+   background-image:url('4leaf.png');
+   border: 15px solid #237a08;
+}
+.sun:hover{
+    border: 25px solid #237a08;
+}
+.moon{
+    background-image:url('inside.jpg');
+    border:15px solid #eaeff2;
+}
+.moon:hover{
+    border:25px solid #eaeff2;
+}
