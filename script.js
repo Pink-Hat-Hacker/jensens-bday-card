@@ -1,4 +1,4 @@
-var audio = new Audio('bday-song.mp3');
+var audio = new Audio('letsDance.mp3');
 
 document.getElementById("orb").addEventListener("click", function(){
     changeToNight();
